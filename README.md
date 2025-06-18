@@ -1,7 +1,9 @@
-## About Me
+##About Me
 
-I'm currently a student in Software Engineering at UniBO, passionate about exploring new frameworks for Node.js such as Next.js and Nest.js. Recently, I developed a project for a restaurant menu that syncs seamlessly with POS systems, reflecting my interest in creating real-world, impactful solutions.
+👨‍💻 Hey there! I’m Fedele, a 💻 Software Engineering student at the University of Bologna 🇮🇹 with a strong passion for building modern, impactful web applications. I love experimenting with powerful frameworks like Next.js ⚡ and Nest.js 🚀 in the Node.js ecosystem.
 
-Outside of coding, I enjoy specialty coffees, biking, spending time in nature, cooking, and discovering good wines.
+🍝 One of my latest projects is a digital restaurant menu 📱 that syncs automatically 🔄 with POS systems.
 
-[LinkedIn: fedele-penna](https://www.linkedin.com/in/fedele-penna)
+☕ When I’m not coding, you’ll probably find me sipping a specialty coffee ☕, biking around the city 🚴, enjoying the outdoors 🌇, cooking something tasty 👨‍🍳, or exploring new wines 🍷.
+
+🔗 Let’s connect on LinkedIn 💬
