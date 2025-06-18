@@ -4,4 +4,4 @@ I'm currently a student in Software Engineering at UniBO, passionate about explo
 
 Outside of coding, I enjoy specialty coffees, biking, spending time in nature, cooking, and discovering good wines.
 
-[LinkedIn: fedelepenna](https://www.linkedin.com/in/fedelepenna)
+[LinkedIn: pennafedele](https://www.linkedin.com/in/pennafedele)
